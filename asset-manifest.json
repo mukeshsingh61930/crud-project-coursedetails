@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crud-project-coursedetails/static/css/main.abd64e84.css",
+    "main.js": "/crud-project-coursedetails/static/js/main.2095e489.js",
+    "index.html": "/crud-project-coursedetails/index.html",
+    "main.abd64e84.css.map": "/crud-project-coursedetails/static/css/main.abd64e84.css.map",
+    "main.2095e489.js.map": "/crud-project-coursedetails/static/js/main.2095e489.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.2095e489.js"
+  ]
+}
